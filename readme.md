@@ -1,6 +1,6 @@
-# KhophiSurvey
+# Syrian Survey
 
-A Minimal survey app built using Laravel 5.
+A Minimal survey app built using Laravel .
 
 # To run locally
 
